@@ -43,8 +43,8 @@ I have a solid academic background in Mathematics, Statistics, and Finance, whic
 
 
 ## Volunteer Experience
-Soup Kitchen Volunteer in Baltimore, USA
-Chinese Teaching Volunteer in Malaysia
+- Soup Kitchen Volunteer in Baltimore, USA.
+- Chinese Teaching Volunteer in Malaysia.
 
 ## Languages I spoke
 I am proficient in English, Mandarin, and I am begin to learn Cantonese 4 years ago.
