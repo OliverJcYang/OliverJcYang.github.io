@@ -52,8 +52,10 @@ I am proficient in English, Mandarin, and I am begin to learn Cantonese 4 years 
 - Tennis
 - Table Tennis\(ChinaTT Highest point\:1516\)
 - Hiking
-- 
+- Piano\(National Level Ten\)
+- Oboe
 
 ## Get in Touch
 
-Feel free to reach out via email at oliveryangjingcheng@gmail.com or connect with me on LinkedIn. Thank you for visiting my website!
+Feel free to reach out via email at oliveryangjingcheng@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/oliverjcy
+). Thank you for visiting my website!
