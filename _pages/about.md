@@ -58,5 +58,5 @@ I am proficient in English, Mandarin, and I am begin to learn Cantonese 4 years 
 
 ## Get in Touch
 
-Feel free to reach out via email at oliveryangjingcheng@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/oliverjcy
-). Thank you for visiting my website!
+Feel free to reach out via email at oliveryangjingcheng@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/oliverjcy/)
+. Thank you for visiting my website!
