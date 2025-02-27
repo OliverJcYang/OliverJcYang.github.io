@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Jingcheng \(Oliver\) Yang from [The University of Hong Kong, School of Computing and Data Science](https://www.cds.hku.hk/), a Year 4 undergraduate pursuing a Bachelor of Science in Decision Analytics with a minor in Finance. I am set to graduate in May 2025 and will continue my studies with a Master of Wealth Management at [HKU Business School](https://www.hkubs.hku.hk/).
+Hello! I'm Jingcheng \(Oliver\) Yang from [The University of Hong Kong, School of Computing and Data Science](https://www.cds.hku.hk/), a Year 4 undergraduate pursuing a Bachelor of Science in Decision Analytics with a minor in Finance. I will graduate in May 2025 and will continue my studies with a Master of Wealth Management at [HKU Business School](https://www.hkubs.hku.hk/).
 
 ## Education
 
