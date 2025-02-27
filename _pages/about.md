@@ -42,18 +42,17 @@ I have a solid academic background in Mathematics, Statistics, and Finance, whic
 - Introductory to Marketing/ Management/ Information System
 
 
-
-
-## Professional Experience
-
-I have gained valuable experience through internships in various sectors:
 ## Extra-Curricular Activities
-
 I am passionate about giving back to the community, as demonstrated by my volunteer work at Johns Hopkins University, where I helped distribute food and clothing to those in need. Additionally, I completed a challenging hiking mission as part of The Duke of Edinburgh’s International Award, navigating wilderness terrain without modern conveniences.
 
-## Skills and Interests
+## Languages
+I am proficient in English, Mandarin, and I am begin to learn Cantonese 4 years ago.
 
-I am proficient in English, Mandarin, and have basic knowledge of Cantonese. My technical skills include programming in Python, C, and C++, alongside expertise in Microsoft Office and Bloomberg. In my free time, I enjoy table tennis, tennis, swimming, and hiking.
+## Hobby
+- Tennis
+- Table Tennis\(ChinaTT Highest point\:1516\)
+- Hiking
+- 
 
 ## Get in Touch
 
