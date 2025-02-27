@@ -6,9 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About Me
 
-Hello! I'm Jingcheng Yang, a dedicated and analytical individual currently pursuing a Bachelor of Science in Decision Analytics with a minor in Finance at The University of Hong Kong. I am set to graduate in May 2025 and will continue my studies with a Master of Wealth Management at HKU Business School.
+Hello! I'm Jingcheng \(Oliver\) Yang,  a dedicated and analytical individual currently pursuing a Bachelor of Science in Decision Analytics with a minor in Finance at The University of Hong Kong. I am set to graduate in May 2025 and will continue my studies with a Master of Wealth Management at HKU Business School.
 
 ## Education
 
