@@ -41,6 +41,8 @@ I have a solid academic background in Mathematics, Statistics, and Finance, whic
 - Lending and Credit in Private Banking and Corporate Banking
 - Introductory to Marketing/ Management/ Information System
 
+## Professional Experience
+For details, please download my [CV](../assets/cv)
 
 ## Volunteer Experience
 - Soup Kitchen Volunteer in Baltimore, USA.
