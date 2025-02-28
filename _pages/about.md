@@ -42,7 +42,7 @@ I have a solid academic background in Mathematics, Statistics, and Finance, whic
 - Introductory to Marketing/ Management/ Information System
 
 ## Professional Experience
-For details, please download my [CV](../assets/cCV_Jingcheng YANG_m.pdf)
+For details, please download my [CV](../assets/CV_Jingcheng YANG_m.pdf)
 
 ## Volunteer Experience
 - Soup Kitchen Volunteer in Baltimore, USA.
